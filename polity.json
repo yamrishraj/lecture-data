@@ -1,5 +1,10 @@
 [
   {
+    "show_notes_ads": false,
+    "ad_app_id": "ca-app-pub-4328181197435092/8783191690",
+    "ad_interstitial_id": "ca-app-pub-4328181197435092/2540557832",
+    "ad_rewarded_id": "ca-app-pub-4328181197435092/1830111398",
+
     "subject_name": "Polity",
     "lectures": [
       {
